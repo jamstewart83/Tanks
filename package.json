@@ -1,0 +1,12 @@
+{
+  "name": "Tanks",
+  "version": "0.1.0",
+  "author": "Jamie Stewart",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-concat": "*",
+    "matchdep": "^0.3.0"
+  }
+}
