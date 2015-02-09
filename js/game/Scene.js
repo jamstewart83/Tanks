@@ -4,4 +4,4 @@ game.Scene = (function() {
 
   return {};
 
-}());
+}())

@@ -7,3 +7,7 @@ build/
 #Sublime project files
 *.sublime-project
 *.sublime-workspace
+
+# Tomcat Folders
+manager/
+host-manager/

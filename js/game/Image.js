@@ -4,4 +4,4 @@ game.Image = (function() {
 
   return {};
 
-}());
+}())
